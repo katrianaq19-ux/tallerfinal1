@@ -12,6 +12,6 @@ if total >= 100:
     print(f"Total sin descuento: ${total:.2f}")
     print(f"Descuento aplicado: ${descuento:.2f}")
     print(f"Total con descuento: ${total_con_descuento:.2f}")
-else:
+if total < 100:
     print(f"Producto: {producto}")
     print(f"Total a pagar: ${total:.2f}")

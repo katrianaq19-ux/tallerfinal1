@@ -1,1 +1,0 @@
-#clasificacion de una calificación
